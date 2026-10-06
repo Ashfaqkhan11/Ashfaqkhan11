@@ -65,8 +65,8 @@ I build **production-ready, cross-platform business apps** with Flutter — one 
 | Project | Description | Stack |
 |:---|:---|:---|
 | [**📦 StockPilot**](https://github.com/Ashfaqkhan11/stockpilot) | Production-ready inventory & purchase management — real-time dashboard, products, suppliers, purchase orders, stock movement history | Flutter · GetX · Supabase |
-| **🧾 Project 2** — *coming soon* | _Add your POS / shop management app here_ | Flutter · Hive |
-| **🛒 Project 3** — *coming soon* | _Add your next project here_ | Flutter · Firebase |
+| [**📈 CryptoSim**](https://github.com/Ashfaqkhan11/crypto_trading_simulator) | Crypto paper-trading simulator — live CoinGecko prices, $10K virtual balance, candlestick charts, global leaderboard, RLS security, offline-first | Flutter · Supabase · AdMob |
+| [**🏃 FitTrack**](https://github.com/Ashfaqkhan11/CodeAlpha_tasks_3) | Fitness tracker — activity logging, step counter, water intake, daily goals, stats charts | Flutter · Provider · SQLite |
 
 > 📌 See all pinned repositories above for my best work.
 
